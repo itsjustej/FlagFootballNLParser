@@ -1,0 +1,131 @@
+id,sentence,play_type,passer,receiver,runner,yards,result,split,difficulty
+d01,Marcus threw to Jaylen for 12 yards,pass,Marcus,Jaylen,,12,complete,dev,easy
+d02,Devon ran for 8 yards,run,,,Devon,8,none,dev,easy
+d03,Marcus pass to Tasha incomplete,pass,Marcus,Tasha,,0,incomplete,dev,easy
+d04,Riley rushed for a touchdown from 15 yards out,run,,,Riley,15,touchdown,dev,easy
+d05,Marc found Dev deep for 25 yards,pass,Marcus,Devon,,25,complete,dev,easy
+d06,"Sam handed off to Jaylen, no gain",run,,,Jaylen,0,none,dev,easy
+d07,"Marcus was picked off, intended for Riley",pass,Marcus,Riley,,0,interception,dev,easy
+d08,Tasha caught a 10 yard pass from Marcus,pass,Marcus,Tasha,,10,complete,dev,easy
+d09,"Flag on the defense, 5 yards",penalty,,,,5,none,dev,easy
+d10,J-Money took it 6 yards,run,,,Jaylen,6,none,dev,easy
+d11,"Riley caught a quick screen from Sam, 4 yards",pass,Sam,Riley,,4,complete,dev,easy
+d12,Tasha ran it up the middle for 7,run,,,Tasha,7,none,dev,easy
+d13,Sam's throw to Dev fell incomplete,pass,Sam,Devon,,0,incomplete,dev,easy
+d14,"Offensive holding, 10 yards",penalty,,,,-10,none,dev,easy
+d15,"Marcus hit Jay in stride for a touchdown, 35 yards",pass,Marcus,Jaylen,,35,touchdown,dev,easy
+d16,Devon got stopped for a loss of 2,run,,,Devon,-2,none,dev,easy
+d17,"Sam was intercepted, he was looking for Tasha",pass,Sam,Tasha,,0,interception,dev,easy
+d18,Jaylen scored on a 9 yard run,run,,,Jaylen,9,touchdown,dev,easy
+d19,"Delay of game, 5 yards",penalty,,,,-5,none,dev,easy
+d20,"Marcus to Riley, 11 yards",pass,Marcus,Riley,,11,complete,dev,easy
+t01,Marcus completed a pass to Devon for 14 yards,pass,Marcus,Devon,,14,complete,test,standard
+t02,Sam found Tasha over the middle for 9,pass,Sam,Tasha,,9,complete,test,standard
+t03,"Riley made the catch, 6 yards, from Marcus",pass,Marcus,Riley,,6,complete,test,standard
+t04,"Marcus lofted one to Jay down the sideline, 27 yards",pass,Marcus,Jaylen,,27,complete,test,standard
+t05,Tash caught Sam's throw for 12,pass,Sam,Tasha,,12,complete,test,standard
+t06,Sam to Dev for 5 yards,pass,Sam,Devon,,5,complete,test,standard
+t07,"Marcus zipped it to Riley, gain of 8",pass,Marcus,Riley,,8,complete,test,standard
+t08,Jaylen pulled in a 16 yard pass from Sam,pass,Sam,Jaylen,,16,complete,test,standard
+t09,Marc connected with Tasha on a 22 yard throw,pass,Marcus,Tasha,,22,complete,test,standard
+t10,Devon got a short pass from Marcus and picked up 3,pass,Marcus,Devon,,3,complete,test,standard
+t11,"#9 hauled it in for 11 yards, thrown by #15",pass,Sam,Tasha,,11,complete,test,standard
+t12,"Marcus threw a bullet to #4, 19 yards",pass,Marcus,Jaylen,,19,complete,test,standard
+t13,Sam dropped it off to Riley for 2,pass,Sam,Riley,,2,complete,test,standard
+t14,Riley was wide open and Marcus hit her for 13,pass,Marcus,Riley,,13,complete,test,standard
+t15,Tasha got the screen pass from Sam and went 15 yards,pass,Sam,Tasha,,15,complete,test,standard
+t16,"Jay made a nice grab from Marcus, 10 yards",pass,Marcus,Jaylen,,10,complete,test,standard
+t17,"Dev caught it, 7 yards, Sam threw it",pass,Sam,Devon,,7,complete,test,standard
+t18,"Marcus fired a pass to Tasha, 18",pass,Marcus,Tasha,,18,complete,test,standard
+t19,Sammy to Jaylen for 20 yards,pass,Sam,Jaylen,,20,complete,test,standard
+t20,Marcus threw it short to Devon and he gained 4,pass,Marcus,Devon,,4,complete,test,standard
+t21,"Sam threw a touchdown pass to Tasha, 24 yards",pass,Sam,Tasha,,24,touchdown,test,standard
+t22,"Marcus to Jay in the end zone for six, 12 yards",pass,Marcus,Jaylen,,12,touchdown,test,standard
+t23,TD! Sam hit Devon from 8 yards out,pass,Sam,Devon,,8,touchdown,test,standard
+t24,"Riley caught a touchdown from Marcus, 30 yards",pass,Marcus,Riley,,30,touchdown,test,standard
+t25,Marcus's pass for Tasha was incomplete,pass,Marcus,Tasha,,0,incomplete,test,standard
+t26,Sam threw it out of bounds,pass,Sam,,,0,incomplete,test,standard
+t27,"Marcus missed Devon, incomplete",pass,Marcus,Devon,,0,incomplete,test,standard
+t28,Riley dropped Sam's pass,pass,Sam,Riley,,0,incomplete,test,standard
+t29,"Incomplete, Marcus to Jaylen",pass,Marcus,Jaylen,,0,incomplete,test,standard
+t30,Sam's pass to Dev was batted down,pass,Sam,Devon,,0,incomplete,test,standard
+t31,Marcus threw it away under pressure,pass,Marcus,,,0,incomplete,test,standard
+t32,Jay couldn't hold on to the pass from Marcus,pass,Marcus,Jaylen,,0,incomplete,test,standard
+t33,"Marcus threw an interception, targeting Jaylen",pass,Marcus,Jaylen,,0,interception,test,standard
+t34,"Sam's pass was picked off, intended for Riley",pass,Sam,Riley,,0,interception,test,standard
+t35,Interception! Marcus was looking for Tasha,pass,Marcus,Tasha,,0,interception,test,standard
+t36,The defense intercepted Sam's throw to Devon,pass,Sam,Devon,,0,interception,test,standard
+t37,Marcus got picked off,pass,Marcus,,,0,interception,test,standard
+t38,Jaylen ran for 6 yards,run,,,Jaylen,6,none,test,standard
+t39,Devon took the handoff and gained 9,run,,,Devon,9,none,test,standard
+t40,Tasha rushed up the middle for 4,run,,,Tasha,4,none,test,standard
+t41,Marcus scrambled for 8 yards,run,,,Marcus,8,none,test,standard
+t42,Riley got 3 yards on the ground,run,,,Riley,3,none,test,standard
+t43,Sam kept it and ran for 12,run,,,Sam,12,none,test,standard
+t44,Dev ran for a touchdown from 20 yards,run,,,Devon,20,touchdown,test,standard
+t45,Jaylen scored on a 14 yard run,run,,,Jaylen,14,touchdown,test,standard
+t46,Tasha got stopped for no gain,run,,,Tasha,0,none,test,standard
+t47,Marcus ran for a loss of 4,run,,,Marcus,-4,none,test,standard
+t48,Devon was dropped for a 2 yard loss,run,,,Devon,-2,none,test,standard
+t49,Riley took it 10 yards,run,,,Riley,10,none,test,standard
+t50,#12 ran 5 yards,run,,,Devon,5,none,test,standard
+t51,J-Money rushed for 7,run,,,Jaylen,7,none,test,standard
+t52,Sam handed it to Tasha and she ran for 11,run,,,Tasha,11,none,test,standard
+t53,Marcus ran it in from 6 yards for a score,run,,,Marcus,6,touchdown,test,standard
+t54,"Offense jumped early, false start, 5 yards",penalty,,,,-5,none,test,standard
+t55,"Defense was offside, 5 yards",penalty,,,,5,none,test,standard
+t56,"Pass interference on the defense, 10 yards",penalty,,,,10,none,test,standard
+t57,"Illegal motion on the offense, 5 yards",penalty,,,,-5,none,test,standard
+t58,"Flag for holding on the offense, 10 yards",penalty,,,,-10,none,test,standard
+t59,"Illegal contact on the defense, 5 yards",penalty,,,,5,none,test,standard
+t60,"Delay of game on the offense, 5 yards",penalty,,,,-5,none,test,standard
+t61,"Encroachment on the defense, 5 yards",penalty,,,,5,none,test,standard
+t62,"Offensive pass interference, 10 yards",penalty,,,,-10,none,test,standard
+t63,"Penalty on the offense for an illegal forward pass, 5 yards",penalty,,,,-5,none,test,standard
+t64,Marcus to #2 for 9,pass,Marcus,Riley,,9,complete,test,standard
+t65,"#7 threw to #12, 21 yards",pass,Marcus,Devon,,21,complete,test,standard
+t66,Sam threw to Jaylan for 13,pass,Sam,Jaylen,,13,complete,test,standard
+t67,"Marcus hit Tasha for 6, touchdown",pass,Marcus,Tasha,,6,touchdown,test,standard
+t68,Devon ran 3 yards,run,,,Devon,3,none,test,standard
+t69,Marcus's pass to Devon was intercepted,pass,Marcus,Devon,,0,interception,test,standard
+t70,Riley ran for 18 yards and a touchdown,run,,,Riley,18,touchdown,test,standard
+t71,Tasha ran for a 6 yard loss,run,,,Tasha,-6,none,test,standard
+t72,Sam hit Ri for 7,pass,Sam,Riley,,7,complete,test,standard
+t73,Jay ran 9 yards,run,,,Jaylen,9,none,test,standard
+t74,Sammy threw it away,pass,Sam,,,0,incomplete,test,standard
+t75,Devon caught a pass from Sam for 10 yards,pass,Sam,Devon,,10,complete,test,standard
+t76,"Dev dropped the ball from Marcus, incomplete",pass,Marcus,Devon,,0,incomplete,test,standard
+t77,Marcus threw a 15 yard touchdown to Jaylen,pass,Marcus,Jaylen,,15,touchdown,test,standard
+t78,Tasha took a handoff for 5,run,,,Tasha,5,none,test,standard
+t79,Sam threw a pick intended for Jaylen,pass,Sam,Jaylen,,0,interception,test,standard
+t80,Marcus ran for 2 yards,run,,,Marcus,2,none,test,standard
+h01,The ball was thrown by Sam to Tasha for 9 yards,pass,Sam,Tasha,,9,complete,hard,passive voice
+h02,"Jaylen was targeted by Marcus, but it fell incomplete",pass,Marcus,Jaylen,,0,incomplete,hard,passive voice
+h03,"A 14 yard completion to Riley, thrown by Marcus",pass,Marcus,Riley,,14,complete,hard,passive voice
+h04,Devon was stopped for a 3 yard loss,run,,,Devon,-3,none,hard,passive voice
+h05,"The pass from Sam was intercepted, intended for Dev",pass,Sam,Devon,,0,interception,hard,passive voice
+h06,Marcus completed one to Jaylen,pass,Marcus,Jaylen,,0,complete,hard,missing yards
+h07,Riley rushed for a score,run,,,Riley,0,touchdown,hard,missing yards
+h08,"Sam threw to Tasha, caught",pass,Sam,Tasha,,0,complete,hard,missing yards
+h09,Penalty on the defense,penalty,,,,0,none,hard,missing yards
+h10,Tasha ran,run,,,Tasha,0,none,hard,missing yards
+h11,Sam threw to Jaylen at the 30 for 12 yards,pass,Sam,Jaylen,,12,complete,hard,extra numbers
+h12,"On 3rd and 8, Marcus hit Tasha for 11",pass,Marcus,Tasha,,11,complete,hard,extra numbers
+h13,"Down by 7, Devon ran for 6 yards in the 4th quarter",run,,,Devon,6,none,hard,extra numbers
+h14,From the 15 yard line Riley ran 15 yards for a touchdown,run,,,Riley,15,touchdown,hard,extra numbers
+h15,Marcous threw to Taysha for 8,pass,Marcus,Tasha,,8,complete,hard,misspelled names
+h16,Sam threw to #21 for 9 yards,pass,Sam,,,9,complete,hard,player not on roster
+h17,Chris ran for 5 yards,run,,,,5,none,hard,player not on roster
+h18,Devin ran for 6,run,,,Devon,6,none,hard,misspelled names
+h19,"#7 to #12, 17 yards",pass,Marcus,Devon,,17,complete,hard,jersey numbers
+h20,"Number 15 handed off to number 4, who gained 8",run,,,Jaylen,8,none,hard,jersey numbers
+h21,"Marcus launched a bomb to Jay, house call, 45 yards",pass,Marcus,Jaylen,,45,touchdown,hard,slang
+h22,"Sam got picked, Dev was the target",pass,Sam,Devon,,0,interception,hard,slang
+h23,Tasha juked two guys and took it 13,run,,,Tasha,13,none,hard,slang
+h24,"Marcus airmailed it, nobody there",pass,Marcus,,,0,incomplete,hard,slang
+h25,Timeout called by the offense,no_play,,,,0,none,hard,non-play
+h26,End of the first half,no_play,,,,0,none,hard,non-play
+h27,Marcus checked with the ref before the snap,no_play,,,,0,none,hard,non-play
+h28,Two minute warning,no_play,,,,0,none,hard,non-play
+h29,"Marcus threw incomplete to Tasha, then Sam ran for 5 on the next play",run,,,Sam,5,none,hard,two plays (label last)
+h30,"Marcus connected with Jay for 6, then a flag on the offense, holding, 10 yards",penalty,,,,-10,none,hard,two plays (label last)
